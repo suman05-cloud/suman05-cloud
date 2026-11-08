@@ -35,7 +35,7 @@ I'm an AI & ML engineering student from Chennai who loves turning ideas into wor
 
 ### Find me on
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff5a7e?style=for-the-badge&logo=vercel&logoColor=white)](https://suman-patari-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff5a7e?style=for-the-badge&logo=vercel&logoColor=white)](https://sumanpatari.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suman-patari-9015a9319/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patarisuman05@gmail.com)
 
@@ -45,5 +45,9 @@ I'm an AI & ML engineering student from Chennai who loves turning ideas into wor
 
 ### Suman's GitHub stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suman05-cloud&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF5A7E&icon_color=FF5A7E&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suman05-cloud&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF5A7E&langs_count=8)
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suman05-cloud&theme=github_dark" height="160" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suman05-cloud&theme=github_dark" height="160" alt="Top Languages" />
+</p>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suman05-cloud&theme=github_dark" width="100%" alt="Contributions" />
