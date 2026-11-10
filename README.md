@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Suman Patari!
+##  Hi there, I'm Suman Patari!
 
 ![Profile views](https://komarev.com/ghpvc/?username=suman05-cloud&color=ff5a7e&style=flat-square&label=Profile+views)
 
@@ -28,10 +28,10 @@ I'm an AI & ML engineering student from Chennai who loves turning ideas into wor
 
 ### What I'm building
 
-- 🏃 [**Runova**](https://github.com/suman05-cloud/RUNOVA): a gamified GPS running app where closing a loop captures territory on a real map
-- 🤖 [**AI Email Agent**](https://github.com/suman05-cloud/Email_Agent): an autonomous Gmail assistant using a ReAct loop and LLM tool calling
-- 📊 [**Amazon ML Challenge**](https://github.com/suman05-cloud/Amazon-ML-): business entity resolution across three data sources
-- 🧭 [**Intelligent Dead Reckoning**](https://github.com/suman05-cloud/Intelligent-Dead-Reckoning-with-IO-VNBD): ML-based positioning from inertial sensors when GPS drops
+-  [**Runova**](https://github.com/suman05-cloud/RUNOVA): a gamified GPS running app where closing a loop captures territory on a real map
+-  [**AI Email Agent**](https://github.com/suman05-cloud/Email_Agent): an autonomous Gmail assistant using a ReAct loop and LLM tool calling
+-  [**Amazon ML Challenge**](https://github.com/suman05-cloud/Amazon-ML-): business entity resolution across three data sources
+-  [**Intelligent Dead Reckoning**](https://github.com/suman05-cloud/Intelligent-Dead-Reckoning-with-IO-VNBD): ML-based positioning from inertial sensors when GPS drops
 
 ### Find me on
 
